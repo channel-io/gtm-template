@@ -1,2 +1,5 @@
 homepage: "https://channel.io"
 documentation: "https://developers.channel.io/"
+versions:
+  - sha: d49303fb966e1cc3d78c0f2b74517f8ba8fa5d95
+    changeNotes: Initial release.
